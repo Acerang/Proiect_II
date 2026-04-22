@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testare.frontend.LockScreenPage"
+             BackgroundColor="#1A237E">
+
+    <VerticalStackLayout Spacing="30" Padding="40" VerticalOptions="Center">
+
+        <Label Text="🔒" FontSize="80" HorizontalOptions="Center" />
+
+        <Label Text="APP BLOCKED" 
+               TextColor="White" 
+               FontSize="32" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Your hydration level is too low to access this app. Take a break and drink some water!" 
+               TextColor="#E3F2FD" 
+               FontSize="18" 
+               HorizontalTextAlignment="Center" 
+               HorizontalOptions="Center" />
+
+        <Border StrokeShape="RoundRectangle 20" BackgroundColor="#2196F3" Padding="10">
+            <VerticalStackLayout Spacing="10">
+                <Label Text="DRINK TO UNLOCK" 
+                       TextColor="White" 
+                       FontAttributes="Bold" 
+                       HorizontalOptions="Center" />
+
+                <Button Text="I JUST DRANK A GLASS! 💧" 
+                        Clicked="OnUnlockClicked"
+                        BackgroundColor="White" 
+                        TextColor="#2196F3" 
+                        FontAttributes="Bold"
+                        CornerRadius="15" 
+                        HeightRequest="60" />
+            </VerticalStackLayout>
+        </Border>
+
+        <Button Text="Back to WaterGuardian" 
+                Clicked="OnGoToAppClicked"
+                BackgroundColor="Transparent" 
+                TextColor="White" />
+
+    </VerticalStackLayout>
+</ContentPage>

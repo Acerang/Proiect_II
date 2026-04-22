@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testare.MainPage"
+             BackgroundColor="#F0F8FF">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30" VerticalOptions="Center">
+
+            <VerticalStackLayout x:Name="LockdownUI" IsVisible="False" Spacing="20">
+                <Label Text="OUT OF TIME! ⛔" 
+                       FontSize="32" 
+                       FontAttributes="Bold" 
+                       HorizontalOptions="Center" 
+                       TextColor="Red" />
+                <Label Text="You didn't drink your water. Access is denied until tomorrow." 
+                       HorizontalTextAlignment="Center" 
+                       TextColor="#546E7A" />
+                <Label x:Name="CountdownLabel" 
+                       FontSize="40" 
+                       FontAttributes="Bold" 
+                       HorizontalOptions="Center" 
+                       TextColor="#1565C0" />
+            </VerticalStackLayout>
+
+            <VerticalStackLayout x:Name="MainUI" Spacing="25" IsVisible="True">
+
+                <Label Text="Hydration Break! 💧"
+                       FontSize="32"
+                       FontAttributes="Bold"
+                       HorizontalOptions="Center"
+                       TextColor="#1565C0" />
+
+                <Label Text="Confirm you've had a glass of water to unlock the app."
+                       FontSize="16"
+                       HorizontalTextAlignment="Center"
+                       TextColor="#546E7A" />
+
+                <Border Stroke="#1565C0" 
+                        StrokeThickness="2" 
+                        StrokeShape="RoundRectangle 20" 
+                        Padding="20"
+                        BackgroundColor="White">
+                    <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                        <Label Text="Today's Goal:" 
+                               FontSize="14" 
+                               HorizontalOptions="Center" 
+                               TextColor="Gray"/>
+
+                        <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
+                            <Label Text="Glasses:" FontSize="24"/>
+                            <Label x:Name="GlassesLabel" 
+                                   Text="0 / 8" 
+                                   FontSize="24" 
+                                   FontAttributes="Bold" 
+                                   TextColor="#1565C0"/>
+                        </HorizontalStackLayout>
+
+                        <ProgressBar x:Name="WaterProgressBar"
+                                     Progress="0" 
+                                     ProgressColor="#2196F3" 
+                                     WidthRequest="200" />
+                    </VerticalStackLayout>
+                </Border>
+
+                <Button Text="I drank a glass! ✅"
+                        BackgroundColor="#1565C0"
+                        TextColor="White"
+                        CornerRadius="25"
+                        HeightRequest="60"
+                        FontSize="18"
+                        FontAttributes="Bold"
+                        Clicked="OnDrinkWaterClicked" />
+
+                <Button x:Name="SnoozeButton"
+                        Text="I need 5 more minutes"
+                        BackgroundColor="#1565C0"
+                        TextColor="White"
+                        FontSize="14"
+                        Clicked="OnSnoozeClicked" />
+
+                <Button Text="Edit App Limits"
+                        Clicked="OnEditLimitsClicked"
+                        BackgroundColor="#1565C0"
+                        TextColor="White"
+                        Margin="0,10,0,0" />
+                
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

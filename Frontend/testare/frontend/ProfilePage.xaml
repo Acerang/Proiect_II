@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testare.ProfilePage"
+             Title="My Profile">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="25" Spacing="25">
+
+            <Border x:Name="GuestView" 
+                    StrokeShape="RoundRectangle 15" 
+                    Padding="20" 
+                    BackgroundColor="#F0F8FF">
+                <VerticalStackLayout Spacing="15">
+                    <Label Text="Welcome! Please sign in" 
+                           FontAttributes="Bold" 
+                           HorizontalOptions="Center" />
+
+                    <Grid ColumnDefinitions="*, *" ColumnSpacing="15">
+                        <Button Grid.Column="0" 
+                                Text="Login" 
+                                Clicked="OnLoginClicked" 
+                                BackgroundColor="#2196F3" 
+                                TextColor="White"
+                                CornerRadius="10" />
+
+                        <Button Grid.Column="1" 
+                                Text="Register" 
+                                Clicked="OnRegisterClicked" 
+                                BackgroundColor="#2196F3" 
+                                TextColor="White"
+                                CornerRadius="10" />
+                    </Grid>
+                </VerticalStackLayout>
+            </Border>
+
+            <VerticalStackLayout HorizontalOptions="Center" Spacing="10">
+                <Border StrokeShape="RoundRectangle 60" 
+                        HeightRequest="120" 
+                        WidthRequest="120" 
+                        BackgroundColor="#E3F2FD">
+                    <Label Text="👤" FontSize="60" VerticalOptions="Center" HorizontalOptions="Center" />
+                </Border>
+                <Label x:Name="UserNameLabel" 
+                       Text="Guest User" 
+                       FontSize="26" 
+                       FontAttributes="Bold" 
+                       HorizontalOptions="Center" />
+            </VerticalStackLayout>
+
+            <Border StrokeShape="RoundRectangle 15" 
+                    Padding="20" 
+                    BackgroundColor="#F5F5F5">
+                <VerticalStackLayout Spacing="15">
+                    <Label Text="Daily Progress" 
+                           FontAttributes="Bold" />
+
+                    <ProgressBar x:Name="HydrationBar" 
+                                 Progress="0.1" 
+                                 ProgressColor="#2196F3" 
+                                 HeightRequest="12" />
+
+                    <Label x:Name="StatusMessage" 
+                           Text="Sign in to track your water intake." 
+                           TextColor="Gray" 
+                           HorizontalOptions="Center" />
+                </VerticalStackLayout>
+            </Border>
+
+            <Button x:Name="EditProfileButton" 
+                    Text="Edit Profile" 
+                    Clicked="OnEditProfileClicked"
+                    BackgroundColor="#1565C0" 
+                    TextColor="White" 
+                    CornerRadius="10" 
+                    HeightRequest="50" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

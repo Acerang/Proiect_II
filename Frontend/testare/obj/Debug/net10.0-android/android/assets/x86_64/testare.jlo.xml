@@ -1,0 +1,26 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64d126555672601d50" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="testare.MainActivity, testare">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64d126555672601d50" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="testare.MainApplication, testare" application_constructor="MainApplication" />
+    <type name="WaterGuardianService" package="crc64d126555672601d50" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="android.app.Service" partial_assembly_qualified_name="testare.WaterGuardianService, testare">
+      <constructors>
+        <constructor name="WaterGuardianService" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+      </constructors>
+      <methods>
+        <method name="onBind" method="n_onBind:(Landroid/content/Intent;)Landroid/os/IBinder;:GetOnBind_Landroid_content_Intent_Handler" jni_signature="(Landroid/content/Intent;)Landroid/os/IBinder;" params="android.content.Intent p0" retval="android.os.IBinder" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+        <method name="onStartCommand" method="n_onStartCommand:(Landroid/content/Intent;II)I:GetOnStartCommand_Landroid_content_Intent_IIHandler" jni_signature="(Landroid/content/Intent;II)I" params="android.content.Intent p0, int p1, int p2" retval="int" is_dynamically_registered="True" super_call="p0, p1, p2" activate_call="p0, p1, p2" />
+        <method name="onDestroy" method="n_onDestroy:()V:GetOnDestroyHandler" jni_signature="()V" retval="void" is_dynamically_registered="True" />
+      </methods>
+    </type>
+  </jcw-types>
+  <acw-types partial-assembly-name="testare" module-name="testare.dll">
+    <type assembly-qualified-name="testare.MainActivity, testare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="testare.MainActivity" java-key="crc64d126555672601d50.MainActivity" managed-key="testare.MainActivity" partial-assembly-qualified-name="testare.MainActivity, testare" />
+    <type assembly-qualified-name="testare.MainApplication, testare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="testare.MainApplication" java-key="crc64d126555672601d50.MainApplication" managed-key="testare.MainApplication" partial-assembly-qualified-name="testare.MainApplication, testare" />
+    <type assembly-qualified-name="testare.WaterGuardianService, testare, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="testare.WaterGuardianService" java-key="crc64d126555672601d50.WaterGuardianService" managed-key="testare.WaterGuardianService" partial-assembly-qualified-name="testare.WaterGuardianService, testare" />
+  </acw-types>
+</api>

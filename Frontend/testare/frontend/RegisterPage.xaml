@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testare.RegisterPage"
+             Title="Create Account">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="20" VerticalOptions="Center">
+
+            <Label Text="Create New Account" FontSize="28" FontAttributes="Bold" HorizontalOptions="Center" />
+
+            <Entry x:Name="UsernameEntry" Placeholder="Username" HeightRequest="50" />
+            <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" HeightRequest="50" />
+            <Entry x:Name="ConfirmPasswordEntry" Placeholder="Confirm Password" IsPassword="True" HeightRequest="50" />
+
+            <Button Text="Register" 
+                    Clicked="OnRegisterClicked" 
+                    BackgroundColor="#1565C0" 
+                    TextColor="White" 
+                    HeightRequest="55" />
+
+            <Button Text="Back to Profile" 
+                    Clicked="OnBackClicked" 
+                    BackgroundColor="#1565C0" 
+                    TextColor="White" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

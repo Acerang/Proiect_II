@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testare.MonitoringPage"
+             Title="Monitoring Dashboard">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="Monitored Applications" 
+               FontSize="24" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center" 
+               TextColor="#212121" />
+
+        <CollectionView x:Name="MonitoringListDisplay" 
+                        HeightRequest="350"
+                        EmptyView="No apps currently monitored.">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="#E0E0E0" CornerRadius="10" Margin="0,5" Padding="15">
+                        <HorizontalStackLayout Spacing="15">
+                            <Label Text="📱" FontSize="20" VerticalOptions="Center"/>
+                            <VerticalStackLayout VerticalOptions="Center">
+                                <Label Text="{Binding Name}" FontAttributes="Bold" FontSize="16"/>
+                                <Label Text="{Binding Limit, StringFormat='Time Limit: {0} min'}" TextColor="Gray"/>
+                            </VerticalStackLayout>
+                        </HorizontalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="Add New Application" 
+                Clicked="OnAddNewAppClicked" 
+                BackgroundColor="#1565C0" 
+                TextColor="White" />
+
+        <Button Text="Check Hydration Status" 
+                Clicked="OnGoToWaterClicked" 
+                BackgroundColor="#1565C0" 
+                TextColor="White" />
+
+        <Button Text="Reset All Limits" 
+                Clicked="OnResetSettingsClicked" 
+                BackgroundColor="#1565C0" 
+                TextColor="White" />
+
+        <Button Text="View My Profile" 
+        Clicked="OnProfileClicked" 
+        BackgroundColor="#1565C0" 
+        TextColor="White" 
+        Margin="0,10,0,0" />
+    </VerticalStackLayout>
+</ContentPage>

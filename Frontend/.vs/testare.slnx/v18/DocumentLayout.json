@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\lockscreenpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\lockscreenpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\lockscreenpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\lockscreenpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\appselectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\appselectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\appselectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\appselectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\monitoringpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\monitoringpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\monitoringpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\monitoringpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\frontend\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\frontend\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\platforms\\android\\waterguardianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\platforms\\android\\waterguardianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|c:\\users\\user\\onedrive - technical university of cluj-napoca\\desktop\\ii\\testare\\testare\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82968CFF-37FD-4E98-51DE-FD6DDF36A05C}|testare\\testare.csproj|solutionrelative:testare\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LockScreenPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LockScreenPage.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\LockScreenPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LockScreenPage.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\LockScreenPage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:31:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LockScreenPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LockScreenPage.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\LockScreenPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LockScreenPage.xaml",
+              "RelativeToolTip": "testare\\frontend\\LockScreenPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T14:29:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SplashScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\SplashScreen.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\SplashScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\SplashScreen.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\SplashScreen.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:31:15.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSelectionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\AppSelectionPage.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\AppSelectionPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\AppSelectionPage.xaml",
+              "RelativeToolTip": "testare\\frontend\\AppSelectionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-19T18:49:51.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\App.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\App.xaml.cs",
+              "RelativeToolTip": "testare\\App.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:32:15.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\App.xaml",
+              "RelativeDocumentMoniker": "testare\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\App.xaml",
+              "RelativeToolTip": "testare\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-19T18:31:45.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SplashScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\SplashScreen.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\SplashScreen.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\SplashScreen.xaml",
+              "RelativeToolTip": "testare\\frontend\\SplashScreen.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-19T18:30:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonitoringPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MonitoringPage.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\MonitoringPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MonitoringPage.xaml",
+              "RelativeToolTip": "testare\\frontend\\MonitoringPage.xaml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T04:42:10.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:35:17.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppSelectionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\AppSelectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\AppSelectionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\AppSelectionPage.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\AppSelectionPage.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA5wEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:51:24.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\RegisterPage.xaml",
+              "RelativeToolTip": "testare\\frontend\\RegisterPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T05:52:40.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\ProfilePage.xaml",
+              "RelativeToolTip": "testare\\frontend\\ProfilePage.xaml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwEgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T05:30:17.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LoginPage.xaml",
+              "RelativeToolTip": "testare\\frontend\\LoginPage.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T05:36:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MainPage.xaml",
+              "RelativeDocumentMoniker": "testare\\frontend\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MainPage.xaml",
+              "RelativeToolTip": "testare\\frontend\\MainPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-19T11:25:22.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:52:56.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "testare\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\MauiProgram.cs",
+              "RelativeToolTip": "testare\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:04:57.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MonitoringPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MonitoringPage.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\MonitoringPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MonitoringPage.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\MonitoringPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T04:42:30.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\MainPage.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\MainPage.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwJgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:29:17.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\AppShell.xaml.cs",
+              "RelativeToolTip": "testare\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:04:30.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WaterGuardianService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\Platforms\\Android\\WaterGuardianService.cs",
+              "RelativeDocumentMoniker": "testare\\Platforms\\Android\\WaterGuardianService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\Platforms\\Android\\WaterGuardianService.cs",
+              "RelativeToolTip": "testare\\Platforms\\Android\\WaterGuardianService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwE0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T18:46:45.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "testare\\frontend\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\frontend\\LoginPage.xaml.cs",
+              "RelativeToolTip": "testare\\frontend\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:37:42.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\AppShell.xaml",
+              "RelativeDocumentMoniker": "testare\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\AppShell.xaml",
+              "RelativeToolTip": "testare\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-19T18:31:33.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "testare\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - Technical University of Cluj-Napoca\\Desktop\\ii\\testare\\testare\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "testare\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-20T05:02:59.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

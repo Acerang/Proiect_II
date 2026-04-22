@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testare.AppSelectionPage"
+             Title="Setup Limits">
+
+    <VerticalStackLayout Padding="30" Spacing="15" VerticalOptions="Center">
+
+        <Label Text="Configure App Limits" 
+               FontSize="24" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center" 
+               Margin="0,0,0,20"/>
+
+        <Label Text="Select Application:" FontAttributes="Bold" />
+        <Picker x:Name="AppPicker" 
+                Title="Tap to select an app"
+                FontSize="18" />
+
+        <Label Text="Time Limit (minutes):" FontAttributes="Bold" Margin="0,10,0,0" />
+        <Entry x:Name="EntryAppLimit" 
+               Placeholder="e.g. 30" 
+               Keyboard="Numeric" 
+               FontSize="18" />
+
+        <Button Text="Add to List" 
+                Clicked="OnAddAppClicked" 
+                BackgroundColor="#2196F3" 
+                TextColor="White" 
+                CornerRadius="10"
+                HeightRequest="50"
+                Margin="0,20,0,0" />
+
+        <CollectionView x:Name="AppsListDisplay" HeightRequest="150" Margin="0,10,0,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Label Text="{Binding Name, StringFormat='- {0}'}" FontSize="14" TextColor="Gray" />
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="Save &amp; Start Monitoring" 
+                Clicked="OnSaveAndStartClicked" 
+                BackgroundColor="#2196F3" 
+                TextColor="White" 
+                CornerRadius="10"
+                HeightRequest="55" />
+
+    </VerticalStackLayout>
+</ContentPage>

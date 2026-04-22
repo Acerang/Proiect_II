@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="testare.LoginPage"
+             Title="Login">
+
+    <VerticalStackLayout Padding="30" Spacing="20" VerticalOptions="Center">
+
+        <Label Text="Welcome Back!" 
+               FontSize="30" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Sign in to your account" 
+               HorizontalOptions="Center" 
+               TextColor="Gray" />
+
+        <Entry x:Name="UsernameEntry" 
+               Placeholder="Username" 
+               HeightRequest="50" />
+
+        <Entry x:Name="PasswordEntry" 
+               Placeholder="Password" 
+               IsPassword="True" 
+               HeightRequest="50" />
+
+        <Button Text="Login" 
+                Clicked="OnLoginClicked" 
+                BackgroundColor="#2196F3" 
+                TextColor="White" 
+                HeightRequest="55" 
+                CornerRadius="10" />
+
+        <Button Text="Go Back" 
+                Clicked="OnBackClicked" 
+                BackgroundColor="#2196F3" 
+                TextColor="White" />
+
+    </VerticalStackLayout>
+</ContentPage>

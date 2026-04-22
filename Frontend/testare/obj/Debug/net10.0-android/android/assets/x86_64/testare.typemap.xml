@@ -1,0 +1,12 @@
+<api type="debug" assembly-name="testare" mvid="cfcd60bf64254247be32d9e5bb950c3b">
+  <java-to-managed>
+    <entry java-name="crc64d126555672601d50/MainActivity" managed-name="testare.MainActivity, testare" managed-type-token-id="33554449" />
+    <entry java-name="crc64d126555672601d50/MainApplication" managed-name="testare.MainApplication, testare" managed-type-token-id="33554450" />
+    <entry java-name="crc64d126555672601d50/WaterGuardianService" managed-name="testare.WaterGuardianService, testare" managed-type-token-id="33554451" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64d126555672601d50/MainActivity" managed-name="testare.MainActivity, testare" managed-type-token-id="33554449" />
+    <entry java-name="crc64d126555672601d50/MainApplication" managed-name="testare.MainApplication, testare" managed-type-token-id="33554450" />
+    <entry java-name="crc64d126555672601d50/WaterGuardianService" managed-name="testare.WaterGuardianService, testare" managed-type-token-id="33554451" />
+  </managed-to-java>
+</api>
